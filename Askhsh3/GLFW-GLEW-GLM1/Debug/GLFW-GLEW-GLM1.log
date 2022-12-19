@@ -1,0 +1,4 @@
+﻿  controls.cpp
+C:\GLP\Askhsh3\GLFW-GLEW-GLM1\controls.cpp(51,9): warning C4101: 'xpos': unreferenced local variable
+C:\GLP\Askhsh3\GLFW-GLEW-GLM1\controls.cpp(51,15): warning C4101: 'ypos': unreferenced local variable
+  GLFW-GLEW-GLM1.vcxproj -> C:\GLP\Askhsh3\GLFW-GLEW-GLM1\Debug\GLFW-GLEW-GLM1.exe
